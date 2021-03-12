@@ -1,0 +1,19 @@
+body {
+  color: #acac;
+  background-color: #4e5a63;
+}
+.jumbotron {
+  padding-top: 6em;
+  background-color: #273036;
+}
+#projects {
+  background-color: #273036;
+}
+.card {
+  background-color: #4e5a63;
+  color: rgba(170, 219, 170, 0.973);
+  margin: 1em;
+}
+section {
+  scroll-margin-top: 5rem;
+}
